@@ -12,7 +12,7 @@ Initial welcome screen
 
 Progress window
 
-![Image](/assets/img/import-ready.png)
+![Image](/assets/img/import-complete.png)
 
 
 Setup
