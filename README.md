@@ -1,4 +1,4 @@
-Maxmind CSV Import
+MaxMind CSV Import
 ==================
 
-An automated import from Maxmind's GeoIP Legacy Country CSV, from CSV to MySQL
+An automated import from MaxMind's GeoIP Legacy Country CSV, from CSV to MySQL

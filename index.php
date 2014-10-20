@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Maxmind CSV Import</title>
+	<title>MaxMind CSV Import</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href='//fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
@@ -18,7 +18,7 @@
 
 <div class="main-wrapper">
 	<div class="main-container">
-		<h1>Maxmind CSV Import</h1>
+		<h1>MaxMind CSV Import</h1>
 	</div>
 	<div class="iframe-container">
 		<iframe src="/views/ready.html" id="iframe" class="iframe" width="600" height="330">
